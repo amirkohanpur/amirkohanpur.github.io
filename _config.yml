@@ -18,10 +18,13 @@ orcid_username: 0000-0002-7132-3072
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
- I am Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign.
+ I am Ph.D. Candidate in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign.
  My research focuses on improving pore-scale models in studying two-phase flow in permeable media.
  
- Research interests: <mark>flow in porous media</mark> <mark>carbon sequestrion</mark> <mark>parallel computation</mark> <mark>computational fluid dynamics</mark> <mark>pore-scale modeling</mark> <mark>reservoir simulation</mark>
+ Please check out my [Google Scholar](https://scholar.google.com/citations?user=iX1JvlgAAAAJ&hl=en) profile for the updated list of publications.
+ 
+ Research interests:
+<mark>flow in porous media</mark> <mark>carbon sequestrion</mark> <mark>parallel computation</mark> <mark>computational fluid dynamics</mark> <mark>pore-scale modeling</mark> <mark>reservoir simulation</mark>
 
 # Education Section
 # educaton_title: Education
