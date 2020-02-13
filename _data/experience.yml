@@ -8,5 +8,48 @@
   description: |
     - Kohanpur, A. H. and Valocchi, A. [Stochastic Pore Network Stitching for Pore-to-Core Upscaling of Two-Phase Flow in Heterogeneous Rocks](https://doi.org/10.1002/essoar.10501287.1). AGU Fall Meeting. San Francisco, CA, USA (2019).
     - Kohanpur, A. H. and Valocchi, A. [Pore Network Stitching for Pore-to-Core Upscaling of Capillary-Dominated Two-Phase Flow in Heterogeneous Natural Reservoir Rocks](https://uofi.box.com/s/jcvq4niojdh4c27wtd1akg1j7didfp3j). InterPore Annual Meeting. New Orleans, LA, USA (2018).
-    - Kohanpur, A. H., Chen, Y., Rahromostaqim, M., Valocchi, A., and Sahimi, M. Comparison of pore network modeling and direct numerical simulation for pore-scale modeling of geological storage of CO2. GSCO2 Annual Meeting. Champaign, IL, USA (2018).
+    - Kohanpur, A. H., Chen, Y., Rahromostaqim, M., Valocchi, A., and Sahimi, M. [Comparison of pore network modeling and direct numerical simulation for pore-scale modeling of geological storage of CO2](https://uofi.box.com/s/g6luopmsmewr497keyynaxawg36z03tu). GSCO2 Annual Meeting. Champaign, IL, USA (2018).
     - Kohanpur, A. H., Chen, Y., Valocchi, A., Tudek, J., and Crandall, D. [Comparison of Pore-Network and Lattice Boltzmann Models for Pore-Scale Modeling of Geological Storage of CO2 in Natural Reservoir Rocks](https://ui.adsabs.harvard.edu/abs/2016AGUFM.H51B1466K/abstract). AGU Fall Meeting. San Francisco, CA, USA (2016).
+    - Kohanpur, A. H., Tudek, J., Crandall, D., Chen, Y., and Valocchi, A. [Comparison of lattice Boltzmann method and pore-network modeling of CO2 and brine flow in Mt Simon Sandstone](https://uofi.box.com/s/tb97032mcduvvjvautocik4n319mw0x1). InterPore Annual Meeting. Cincinnati, OH, USA (2016).
+    - Chen, Y., Valocchi, A., Kohanpur, A. H., and Freiburg J. [Comparison of the Shan-Chen and Color-Fluid Models in Lattice Boltzmann Simulation of Two-Phase Flow in Porous Media](https://ui.adsabs.harvard.edu/abs/2015AGUFM.H41C1325C/abstract). AGU Fall Meeting. San Francisco, CA, USA (2015).
+    - Mehnert, E., Gershenzon, N., Kohanpur, A. H., Okwen, R., Patterson, C., Ritzi, R., and Valocchi, A. [The impact of model complexity on CO2 saturation and mass balance](https://ui.adsabs.harvard.edu/abs/2015AGUFM.H41C1324M/abstract). AGU Fall Meeting. San Francisco, CA, USA (2015).
+
+- company: Talks
+  description: |
+    - Kohanpur, A. H., Rahromostaqim, M., Valocchi, A., and Sahimi, M. [Direct Numerical Simulation of CO2-Brine Drainage in Real Rock Core](https://uofi.box.com/s/ri2puip041mfhk119cachusq3f6qejdp). GSCO2 Annual Meeting. Champaign, IL, USA (2019).
+    - Kohanpur, A. H. and Valocchi, A. [Pore Network Stitching for Pore-to-Core Upscaling of Two-Phase Flow in Heterogeneous Rocks](https://ui.adsabs.harvard.edu/abs/2018AGUFM.H44F..07K/abstract) AGU Fall Meeting. Washington, DC, USA (2018).
+    -	Kohanpur, A. H. “Pore-Scale Modeling of Geological Storage of CO2 in Saline Aquifers.” TBP Research Symposium. UIUC, Urbana, IL, USA (2017).
+    -	Kohanpur, A. H. “Predictive Pore-Network Modeling for Geologic Storage of CO2 in Natural Reservoir Rocks.” EHHE Seminar. Department of Civil and Environmental Engineering, UIUC, Urbana, IL, USA (2017).
+
+- company: Teaching
+  description: |
+    <br /><br />Teaching Assistant, University of Illinois at Urbana-Champaign (2017-present):
+    - Groundwater, Department of Civil and Environmental Engineering (3 semesters)
+    -	Groundwater Modeling, Department of Civil and Environmental Engineering (2 semesters)
+    -	Water Resources Engineering, Department of Civil and Environmental Engineering (1 semester)
+    <br /><br />Graduate Mentor, University of Illinois at Urbana-Champaign (2016-2018):
+    - Jingjing Xu, REU Program of Department of Civil and Environmental Engineering (4 semesters):
+      Rock characterization in ImageJ, Pore-network generation by programming in Python, REV study of Mt. Simon sandstone samples via image analysis, Pore-network modeling based on [OpenPNM](http://openpnm.org/)
+    <br /><br />Teaching Assistant, Shiraz University (2008-2011):
+    - Engineering Mathematics, Department of Mechanical Engineering (4 semesters)
+    -	Engineering Drawing, Department of Mechanical Engineering (3 semesters)
+    
+- company: Professional Memberships
+  description: |
+    - The National Ground Water Association (NGWA), 2020-present
+    - The Tau Beta Pi Association (Illinois Alpha Chapter), 2017-present
+    - The American Geophysical Union (AGU), 2016-present
+    - The International Society for Porous Media (InterPore), 2016-present
+    - The International Water Resources Association (IWRA), 2016-2018
+    - Iran’s National Elites Foundation, 2011-present
+
+- company: Leadership and Volunteer 
+  description: |
+    <br /><br />International Water Resources Association (IWRA), Illinois (2016-2018):
+    - Treasurer: Write annual funding proposal and manage monthly expenses
+    -	Webmaster: Maintain websites and social media accounts with updates and Illinois Water Day event news
+    <br /><br />Engineering Open House (EOH), Illinois (2017-2019):
+    - Lead Exhibitor: Organize and present a groundwater flow exhibition for  students and community members
+    <br /><br />Iranian Cultural Association (ICA), Illinois (2017-2019):
+    - Organize cultural events on campus and raise awareness in the community
+    -	Fundraise and assist in supporting diversity programs
