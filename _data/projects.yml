@@ -3,6 +3,13 @@
   link: http://www.gsco2.org/
   #github: 
   #quote: >
-    
   description: | 
     The Center for Geologic Storage of CO2 (GSCO2) is an integrated multidiscipline and multi- institution research center focused on recognized challenges for commercial scale storage of carbon dioxide (CO2) storage. Its mission is to generate new conceptual, mathematical, and numerical models applicable to geologic storage systems in specific and strategically identified research areas, based on uncertainty and limitations observed in field pilots and CO2 injection demonstration projects, laboratory experiments, and the experience of researchers.
+
+- layout: top-middle
+  name: I2CNER
+  link: https://i2cner.kyushu-u.ac.jp/en/
+  #github: 
+  #quote: >
+  description: | 
+    The mission of I2CNER is to contribute to the creation of a sustainable and environmentally friendly society by advancing fundamental science to reduce CO2 emissions and establish a non-fossil based energy carrier system.
