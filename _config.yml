@@ -27,7 +27,7 @@ about_content: |
 # educaton_title: Education
 
 # Experience Section
-# experience_title: Academic Experience
+# experience_title: Experience
 
 # Projects Section
 # projects_title: Projects
@@ -42,6 +42,14 @@ more_content: |
   - Winner of the 3rd Place in 16th National Mechanical Engineering Olympiad, Iran, 2011
   - Winner of the 2nd Place in National Engineering Contest on National Broadcasting, Iran, 2011
   - Ranked 35th among 15,000 students in Nationwide M.Sc. Entrance Exam in Mechanical Engineering, Iran, 2011
+
+# More Section
+more_title: More About Me
+more_content: |
+  These are some of my hobbies:
+   - Traveling
+   - Photography
+   - Tennis
 
 # Footer
 footer_show_references: true
