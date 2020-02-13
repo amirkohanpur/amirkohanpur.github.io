@@ -1,8 +1,8 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  name: GSCO2 EFRC
+  link: http://www.gsco2.org/
+  #github: 
+  #quote: >
+    
+  description: | 
+    The Center for Geologic Storage of CO2 (GSCO2) is an integrated multidiscipline and multi- institution research center focused on recognized challenges for commercial scale storage of carbon dioxide (CO2) storage. Its mission is to generate new conceptual, mathematical, and numerical models applicable to geologic storage systems in specific and strategically identified research areas, based on uncertainty and limitations observed in field pilots and CO2 injection demonstration projects, laboratory experiments, and the experience of researchers.
