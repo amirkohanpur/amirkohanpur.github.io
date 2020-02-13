@@ -20,7 +20,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  I am Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign.
  My research focuses on improving pore-scale models in studying two-phase flow in permeable media.
- Some of my research interests: <mark>flow in porous media</mark> <mark>carbon sequestrion</mark> <mark>parallel computation</mark>
+ 
+ Research interests: <mark>flow in porous media</mark> <mark>carbon sequestrion</mark> <mark>parallel computation</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -34,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  While I'm not busy with my research, I do:
+  These are some of my hobbies:
    - Traveling
    - Photography
    - Tennis
@@ -43,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+#remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
