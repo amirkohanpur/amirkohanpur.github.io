@@ -47,7 +47,7 @@ more_content: |
   - Ranked 35th among 15,000 students in Nationwide M.Sc. Entrance Exam in Mechanical Engineering, Iran, 2011
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
