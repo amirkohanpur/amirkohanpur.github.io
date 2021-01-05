@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Amir Hossein Kohanpur
-title: Ph.D. Candidate in Civil Engineering at University of Illinois at Urbana-Champaign
+title: Ph.D. in Civil Engineering at University of Illinois at Urbana-Champaign
 email: kohanpu2@illinois.edu
 website: amirkohanpur.github.io
 
@@ -18,12 +18,12 @@ orcid_username: 0000-0002-7132-3072
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
- I am Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. My research focuses on modeling of multiphase flow in permeable media in different scales. 
+ I received my Ph.D. degree in Civil Engineering from the University of Illinois at Urbana-Champaign in 2020. My research was focused on modeling of multiphase flow in porous media in different scales. 
  
  Please check out my [Google Scholar](https://scholar.google.com/citations?user=iX1JvlgAAAAJ&hl=en) profile for the updated list of publications.
  
  Research interests:
- <mark>flow in porous media</mark> <mark>carbon sequestrion</mark> <mark>parallel computing</mark> <mark>computational fluid dynamics</mark>
+ <mark>flow in porous media</mark> <mark>carbon sequestrion</mark> <mark>parallel computing</mark> <mark>computational fluid dynamics</mark>machine learning</mark>
 
 # Education Section
 # educaton_title: Education
